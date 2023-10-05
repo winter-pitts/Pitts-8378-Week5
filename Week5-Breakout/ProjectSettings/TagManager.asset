@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Bounds
   - Brick
+  - DES
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - Ball
   - Water
   - UI
-  - 
+  - Brick
   - 
   - 
   - 
